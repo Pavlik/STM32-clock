@@ -1,0 +1,5 @@
+../Drivers/CMSIS/Include/core_cm3.h:1600:22:__NVIC_ClearPendingIRQ	16	static
+../Core/Src/debounce.c:7:6:getDataFromButton	16	static
+../Core/Src/debounce.c:31:6:handleShortPress	16	static
+../Core/Src/debounce.c:52:6:handleLongPress	16	static
+../Core/Src/debounce.c:70:6:callBackButton	16	static

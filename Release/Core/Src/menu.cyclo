@@ -1,0 +1,11 @@
+../Core/Src/menu.c:42:6:showTime	3
+../Core/Src/menu.c:69:6:setTimeMenu	1
+../Core/Src/menu.c:79:6:setAlarmMenu	1
+../Core/Src/menu.c:86:6:showTemperature	1
+../Core/Src/menu.c:95:6:showRH	1
+../Core/Src/menu.c:104:6:showAlarm	1
+../Core/Src/menu.c:33:6:showMainPage	1
+../Core/Src/menu.c:110:6:initNewSymbols	1
+../Core/Src/menu.c:117:6:setTime	9
+../Core/Src/menu.c:168:6:chooseSettingValue	2
+../Core/Src/menu.c:177:6:startTim1ForBlinkValue	1

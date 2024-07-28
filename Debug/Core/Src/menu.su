@@ -1,0 +1,11 @@
+../Core/Src/menu.c:35:6:showMainPage	8	static
+../Core/Src/menu.c:51:6:showTime	16	static
+../Core/Src/menu.c:78:6:setTimeMenu	8	static
+../Core/Src/menu.c:88:6:setAlarmMenu	8	static
+../Core/Src/menu.c:100:6:showTemperature	8	static
+../Core/Src/menu.c:109:6:showRH	8	static
+../Core/Src/menu.c:118:6:showAlarm	8	static
+../Core/Src/menu.c:124:6:initNewSymbols	8	static
+../Core/Src/menu.c:131:6:setTime	16	static
+../Core/Src/menu.c:183:6:chooseSettingValue	4	static
+../Core/Src/menu.c:192:6:startTim1ForBlinkValue	8	static
